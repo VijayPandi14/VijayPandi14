@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vijaypandi.m2002@gmail.com**
 
-- 📄 Know about my experiences [https://vijaypandi14.github.io/PersonalWebsite.githun.io/](https://vijaypandi14.github.io/PersonalWebsite.githun.io/)
+- 📄 Know about my experiences [https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf](https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
