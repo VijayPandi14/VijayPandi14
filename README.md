@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Pandi M</h1>
 <h3 align="center">A passionate frontend Developer from Theni,TamilNadu</h3>
 
-<img  align="right" src="![image](https://user-images.githubusercontent.com/128987354/229364219-9d6cc17d-4d1c-4e47-885b-ee653469bc91.png)" alt="vijaypandi14" width="400" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypandi14&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypandi14" /> </p>
 
 - 🌱 I’m currently learning **ReactJS,NodeJS**
