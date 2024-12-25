@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Vijay Pandi M</h1>
-<h3 align="center">A passionate frontend Developer from Theni,TamilNadu</h3>
+<h3 align="center">A passionate WebSite Designer from Theni,TamilNadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypandi14&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypandi14" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://vijaypandi14.github.io/PersonalWebsite.githun.io/](https://vijaypandi14.github.io/PersonalWebsite.githun.io/)
+- 👨‍💻 All of my projects are available at [https://vijaypandi14.github.io/PersonalWebsite/](https://vijaypandi14.github.io/PersonalWebsite/)
 
-- 📫 How to reach me **vijaypandi.m2002@gmail.com**
+- 📫 How to reach me **vijay.muthupandi1402@gmail.com**
 
 - 📄 Know about my experiences [https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf](https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf)
 
