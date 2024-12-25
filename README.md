@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://vijaypandi14.github.io/PersonalWebsite/](https://vijaypandi14.github.io/PersonalWebsite/)
+- 👨‍💻 All of my projects are available at [PersonalWebsite](https://vijaypandi14.github.io/PersonalWebsite/)
 
 - 📫 How to reach me **vijay.muthupandi1402@gmail.com**
 
-- 📄 Know about my experiences [https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf](https://vijaypandi14.github.io/PersonalWebsite.githun.io/Image/VJResume.pdf)
+- 📄 Know about my experiences [Download My Resume](https://vijaypandi14.github.io/PersonalWebsite/Image/VJResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
